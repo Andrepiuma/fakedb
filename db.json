@@ -4,13 +4,19 @@
   },
   "salary": [
     {
-      "name": "INNEN"
+      "short_name": "INNEN", 
+      "status": 1, 
+      "monthly_cost": 5000 
     },
     {
-      "name": "CIAOTECH"
+      "short_name": "CIAOTECH", 
+      "status": 2, 
+      "monthly_cost": null 
     },
     {
-      "name": "TEST2"
+      "short_name": "TEST2", 
+      "status": 3, 
+      "monthly_cost": 3000 
     }
   ]
 }
