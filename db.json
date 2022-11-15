@@ -27,7 +27,7 @@
     {
       "id" : 4,
       "short_name": "PARTN4", 
-      "status": 1, 
+      "status": 2, 
       "monthly_cost": null,
       "wp_list": [600, 700, 600, 600, 500, 600, 700, 700, 800, 600, 600, 500] 
     }
