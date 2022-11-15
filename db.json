@@ -4,24 +4,28 @@
   },
   "salary": [
     {
+      "id" : 1,
       "short_name": "INNEN", 
       "status": 1, 
       "monthly_cost": 5000,
       "wp_list": [null, null, null, null, null, null, null, null, null, null, null, null]
     },
     {
+      "id" : 2,
       "short_name": "CITECH", 
       "status": 2, 
       "monthly_cost": null,
       "wp_list": [600, 700, 600, 600, 500, 600, 700, 700, null, null, null, null] 
     },
     {
+      "id" : 3,
       "short_name": "CBENT", 
       "status": 3, 
       "monthly_cost": 3000,
       "wp_list": [null, null, null, null, null, null, null, null, null, null, null, null] 
     },
     {
+      "id" : 3,
       "short_name": "PARTN4", 
       "status": 1, 
       "monthly_cost": null,
