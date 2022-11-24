@@ -40,29 +40,24 @@
         "id" : 1,
         "short_name": "INNEN", 
         "status": 1, 
-        "monthly_cost": 5000,
-        "wp_list": [null, null, null, null, null, null, null, null, null, null, null, null]
-      },
-      {
-        "id" : 2,
-        "short_name": "CITECH", 
-        "status": 2, 
-        "monthly_cost": null,
-        "wp_list": [600, 700, 600, 600, 500, 600, 700, 700, null, null, null, null] 
-      },
-      {
-        "id" : 3,
-        "short_name": "CBENT", 
-        "status": 3, 
-        "monthly_cost": 3000,
-        "wp_list": [null, null, null, null, null, null, null, null, null, null, null, null] 
-      },
-      {
-        "id" : 4,
-        "short_name": "PARTN4", 
-        "status": 2, 
-        "monthly_cost": null,
-        "wp_list": [600, 700, 600, 600, 500, 600, 700, 700, 800, 600, 600, 500] 
+        "tot_pm": 4.0,
+        "inc_by_act": 500,
+        "fin_contr": 500,
+        "own_resources": 500,
+        "tot_est_income": 500,
+        "other_costs_percnt": 500,
+        "tot_est_inc_vs_costs": 500,
+        "direct_cost_pers": 500,
+        "direct_cost_subcontr": 500,
+        "travel_subsistance": 500,
+        "eqipment": 500,
+        "other_goods_works_serv": 500,
+        "other_cost_categ": 500,
+        "intern_invoiced": 500,
+        "indirect_costs": 500,
+        "tot_elig_costs": 500,
+        "tot_est_proj_costs": 500,
+        "tot_req_eu_contr": 500
       }
     ]
   }
