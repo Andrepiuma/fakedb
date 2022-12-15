@@ -125,5 +125,54 @@
         "wp_list": [2, 2, 3, 2, 1, 0, 2, 2, 2, 0, 2, 2] 
       }
     ]
+  },
+  "ppps_forms": {
+    "data": [
+      {
+        "id" : 1,
+        "partic_short_name": "INNEN", 
+        "country": "Belgium",
+        "direct_cost_pers": 3000,
+        "direct_cost_subcontr": 1000,
+        "other_inv_goods_serv": 500,
+        "intern_inv_goods_serv": 1000,
+        "indirect_costs": 2000,
+        "tot_est_elig_costs": 7000,
+        "tot_est_proj_costs_contr": 7000,
+        "reimburs_rate_percnt": 70,
+        "tot_req_eu_contr": 3700,
+        "cfs_cost_audit": null
+      },
+      {
+        "id" : 2,
+        "partic_short_name": "CITECH", 
+        "country": "Italy",
+        "direct_cost_pers": 4000,
+        "direct_cost_subcontr": 2000,
+        "other_inv_goods_serv": 500,
+        "intern_inv_goods_serv": 800,
+        "indirect_costs": 1000,
+        "tot_est_elig_costs": 8000,
+        "tot_est_proj_costs_contr": 8000,
+        "reimburs_rate_percnt": 70,
+        "tot_req_eu_contr": 4500,
+        "cfs_cost_audit": null
+      },
+      {
+        "id" : 3,
+        "partic_short_name": "CBENT", 
+        "country": "Italy",
+        "direct_cost_pers": 2000,
+        "direct_cost_subcontr": 1000,
+        "other_inv_goods_serv": 1000,
+        "intern_inv_goods_serv": 500,
+        "indirect_costs": 500,
+        "tot_est_elig_costs": 5000,
+        "tot_est_proj_costs_contr": 5000,
+        "reimburs_rate_percnt": 70,
+        "tot_req_eu_contr": 2600,
+        "cfs_cost_audit": null
+      }
+    ]
   }
 }
